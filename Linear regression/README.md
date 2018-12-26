@@ -1,7 +1,8 @@
 # Get familiar with pandas
 * Read file: data  = pd.read_csv
 * Read dimension:  data.shape
-* Extract columns: 
+* Insert column: .insert() e.g.,  inserting column with static value in data frame. data.insert(2, "Team", "Any") 
+* Extract rows or columns: 
 iloc.[] works based on integer positioning. So no matter what your row labels are, you can always, e.g., get the first row by doing .iloc[0]
 or the last five rows by doing .iloc[-5:]
 RECAP: three methods
