@@ -26,3 +26,14 @@ RECAP: three methods
 
 * 1D matirx element extraction   
 e.g.,theta = np.matrix([0, 0]), theta[0, 1]
+
+# More abuot Pandas Framework   
+
+* Pandas is a popular Python package for data science, and with good reason: it offers powerful, expressive and flexible data structures that make data manipulation and analysis easy, among many other things. The DataFrame is one of these structures.
+
+* Data frame as a way to store data in rectangular grids that can easily be overviewed. 
+
+* In general, you could say that the Pandas DataFrame consists of three main components: the data, the index, and the columns.
+
+* Resources: https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
+
